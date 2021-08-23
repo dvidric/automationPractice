@@ -1,0 +1,10 @@
+page\LandingPage.class
+page\AuthenticationPage.class
+page\CreateAccountPage.class
+Helper.class
+page\HomePage.class
+page\BasePage.class
+page\CheckoutPopupPage.class
+page\MyAccountPage.class
+page\ProductDetailPage.class
+page\CartSummaryPage.class

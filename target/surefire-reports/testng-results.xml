@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="65948" started-at="2021-08-23T11:27:01Z" finished-at="2021-08-23T11:28:07Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="65948" started-at="2021-08-23T11:27:01Z" finished-at="2021-08-23T11:28:07Z">
+      <class name="PracticeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:PracticeTest@5ebec15]" name="setup" is-config="true" duration-ms="9038" started-at="2021-08-23T11:27:01Z" finished-at="2021-08-23T11:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:PracticeTest@5ebec15]" name="firstTest" duration-ms="55778" started-at="2021-08-23T11:27:10Z" finished-at="2021-08-23T11:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:PracticeTest@5ebec15]" name="teardown" is-config="true" duration-ms="1099" started-at="2021-08-23T11:28:06Z" finished-at="2021-08-23T11:28:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- PracticeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
